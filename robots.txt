@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rikisopebapi.pages.dev/sitemap.xml
